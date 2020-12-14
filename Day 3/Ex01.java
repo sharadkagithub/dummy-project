@@ -5,6 +5,7 @@ public class Ex01 {
 	public static void main(String[] args) {
 		System.out.println("Hello world from Eclipse");
 		System.out.println("Sharad");
+		System.out.println(" Kaushik");
 	}
 
 }
